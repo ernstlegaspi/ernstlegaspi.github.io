@@ -452,6 +452,7 @@ h1, h2 {
   .main-bg .projects .p-row .project {
     height: auto;
     margin-bottom: 30px;
+    width: 100%;
   }
   .main-bg .projects .p-row .project:not(:last-child) {
     margin-bottom: 30px;
